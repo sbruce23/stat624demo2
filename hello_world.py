@@ -1,2 +1,2 @@
-print('Howdy World!')
-print('Fancy meeting you here!')
+print('Greetings World!')
+print('Delighted to meet you!')
